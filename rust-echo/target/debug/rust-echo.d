@@ -1,0 +1,1 @@
+/home/kerem/Programming/rust/rust-coreutils/rust-echo/target/debug/rust-echo: /home/kerem/Programming/rust/rust-coreutils/rust-echo/src/lib.rs /home/kerem/Programming/rust/rust-coreutils/rust-echo/src/main.rs
