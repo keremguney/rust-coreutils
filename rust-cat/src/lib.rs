@@ -7,6 +7,6 @@ pub fn take_input() -> Vec<String> {
 }
 
 pub fn concat_files(args: Vec<String>) {
-    let args = args.into_iter().map(|file| fs::read_to_string(file).unwrap()).collect::<Vec<String>>();
+    let args = args.into_iter().map(|file| fs::read_to_string(file).expect("failed to read file")).collect::<Vec<String>>();
     println!("{}", args.join(""));
 }
