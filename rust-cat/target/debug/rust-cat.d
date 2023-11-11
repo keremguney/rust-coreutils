@@ -1,0 +1,1 @@
+/home/kerem/Programming/rust/rust-coreutils/rust-cat/target/debug/rust-cat: /home/kerem/Programming/rust/rust-coreutils/rust-cat/src/lib.rs /home/kerem/Programming/rust/rust-coreutils/rust-cat/src/main.rs
